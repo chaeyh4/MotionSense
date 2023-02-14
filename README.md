@@ -1,6 +1,6 @@
 # MotionSense 데이터 시각화
 
-해당 논문(https://github.com/iantangc/ContrastiveLearningHAR) 을 참고하여 MotionSense 데이터를 시각화하고 Transform을 적용한 이후의 데이터 또 시각화하였습니다.
+해당 논문(https://github.com/iantangc/ContrastiveLearningHAR) 을 참고하여 MotionSense 데이터를 시각화하고 Transform을 적용한 이후의 데이터 또한 시각화하였습니다.
 
 파일에 대한 설명은 다음과 같습니다.
 
@@ -10,7 +10,7 @@ MotionSense 데이터 시각화 및 Transform 했을 때의 데이터를 시각�
 
 # axis_angle_to_rotation_matrix_3d_vectorized
 
-transform의 8가지 종류 중 3D rotation에 대한 함수를 세부적으로 분석하였습니다. 
+transform의 8가지 종류 중 특히 3D rotation에 대한 내용을 세부적으로 분석하였습니다. 
 
 
 # Citation
