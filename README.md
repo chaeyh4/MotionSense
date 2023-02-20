@@ -1,3 +1,6 @@
+<img src="/assets/img/2021_1_curriculum/nlp.PNG">
+
+
 # MotionSense 데이터 시각화
 
 해당 논문(https://github.com/iantangc/ContrastiveLearningHAR) 을 참고하여 MotionSense 데이터를 시각화하고 
