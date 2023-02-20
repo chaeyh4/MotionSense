@@ -1,8 +1,15 @@
 # MotionSense 데이터 시각화
 
-해당 논문(https://github.com/iantangc/ContrastiveLearningHAR) 을 참고하여 MotionSense 데이터를 시각화하고 Transform을 적용한 이후의 데이터 또한 시각화하였습니다.
+해당 논문(https://github.com/iantangc/ContrastiveLearningHAR) 을 참고하여 MotionSense 데이터를 시각화하고 
 
-파일에 대한 설명은 다음과 같습니다.
+Transform을 적용한 이후의 데이터 또한 시각화하였습니다.
+
+MotionSense 데이터 수집: https://github.com/mmalekzadeh/motion-sense
+
+
+
+
+상세한 파일에 대한 설명은 다음과 같습니다.
 
 # MotionSense_Visualization
 
