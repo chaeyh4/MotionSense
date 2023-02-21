@@ -7,8 +7,13 @@ Transform을 적용한 이후의 데이터 또한 시각화하였습니다.
 MotionSense 데이터 수집: https://github.com/mmalekzadeh/motion-sense
 
 
+MotionSense 데이터 시각화 
+
 <img src="/image/MotionSenseRawData.png">
 
+MotionSense 데이터의 X,Y,Z축을 분리 후 데이터 시각화
+
+<img src="/image/MotionSenseRawData.png">
 
 
 상세한 파일에 대한 설명은 다음과 같습니다.
