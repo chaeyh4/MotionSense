@@ -40,6 +40,9 @@ MotionSense 데이터에 Transformation을 적용하고 X,Y,Z축을 분리한 �
 
 transform의 8가지 종류 중 특히 3D rotation에 대한 내용을 세부적으로 분석하였습니다. 
 
+# rotation
+
+rotation code를 random한 각도로 rotation하는 것에서 각도를 입력받는 방식으로 변형하였습니다. 
 
 # Citation
 
